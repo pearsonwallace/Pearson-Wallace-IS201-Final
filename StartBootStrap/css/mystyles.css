@@ -1,0 +1,15 @@
+ul {
+    font-size: 20px;
+}
+
+.homebg {
+    background-image: url(../assets/img/newyorkBackground.jpg);
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+.fontcolor {
+    color: dimgray;
+}
